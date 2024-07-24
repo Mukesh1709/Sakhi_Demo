@@ -1,0 +1,6 @@
+<svg width="320" height="40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Text with shadow effect -->
+  <text x="20" y="40" font-family="Arial" font-size="24" fill="#21313C" font-weight="bold" text-shadow="2px 2px 4px rgba(0, 0, 0, 0.2)">
+    🛒Sakhi Creatives Demo
+  </text>
+</svg>
